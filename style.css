@@ -1,0 +1,111 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.navigation-item{
+    margin-left: 30px;
+    font-weight: 700;
+}
+
+.navbar-light .navbar-nav .green-btn {
+    color:white;
+}
+.nav-link{
+    display: inline-block;
+}
+.green-background{
+    background-color: #F0FFF0;
+    margin-bottom: 40px;
+}
+.green-btn{
+    background-color: #2FA470;
+    text-decoration: none;
+    border-radius: 30px;
+    padding: 10px 25px !important;
+    color: #ffffff;
+    border: none;
+    transition: all .5s ease-in-out;
+}
+.green-btn:hover{
+    background-color: rgba(0, 0, 0, 0.753);
+    color: white !important;
+}
+
+.red-highlight{
+    color: #FD511A;
+}
+.green-highlight{
+    color: #21B573;
+}
+.banner-positon{
+    padding: 60px 10px;
+}
+.container{
+    margin-bottom: 50px;
+}
+.about-card{
+    height: 235px;
+    border: none;
+    border-radius: 5px;
+    padding: 20px 0px;
+    margin: 10px 10px ;
+    background-color: #F0FFF0;
+    transition: all .5s ease-in-out;
+}
+.about-card:hover{
+    background-color: white;
+    box-shadow: 5px 5px 10px lightgray;
+    cursor: pointer;
+}
+.card-body{
+    margin-top: 15px;
+}
+.online-course{
+    text-align: center;
+    margin-bottom: 50px; 
+}
+.online-card-footer img{
+    width: 18px;
+    height: 18px;
+}
+.online-course-card{
+    padding: 15px;
+    border-radius: 5px;
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    transition: all .5s ease-in-out;
+}
+.online-course-card:hover{
+    background-color: #F0FFF0;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-body{
+    padding: 0px;
+}
+.testimonial-img{
+    width: 100px;
+    height: 100px;
+}
+.text-center{
+    text-align: center;
+}
+.dark-bg{
+    background-color: #282531;
+}
+.container:last-child{
+    margin-bottom: 0px;
+}
+footer{
+    color: white;
+    font-size: 16px;
+}
+.footer-padding{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.footer-padding ul li{
+    list-style-type: none;
+}
+.copyright-para{
+    padding-bottom: 15px;
+   margin-bottom: 0px !important;
+}
